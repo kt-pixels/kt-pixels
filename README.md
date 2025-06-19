@@ -5,14 +5,11 @@
 
 ## 🛠️ Work
 
-- 🔭 I’m currently working on: **Social Media Web App**  
-  [GitHub Link](https://github.com/kt-pixels)
+- 🔭 I’m currently working on: **Social Media Web App**
 
-- 🤝 I’m looking to collaborate on: **Frontend and Django-based backend projects**  
-  [GitHub Profile](https://github.com/kt-pixels)
+- 🤝 I’m looking to collaborate on: **Frontend and Django-based backend projects** 
 
-- 👨‍💻 I’m looking for help with: **React Native projects and backend APIs**  
-  [Project Repo](https://github.com/kt-pixels)
+- 👨‍💻 I’m looking for help with: **React Native projects and backend APIs**
 
 - 🌱 I’m currently learning: **React Native, Django Rest Framework (DRF), JWT Auth, MySQL**
 
@@ -32,13 +29,8 @@
 
 ---
 
-## ✍️ I regularly write articles on:  
-📝 *(currently none, but planning to start on Medium/Dev.to)*
-
----
-
 ## 🧾 Know about my experiences:  
-📄 [Resume PDF](#) *(Upload to Google Drive/GitHub and link here)*
+📄 [Resume PDF](https://drive.google.com/file/d/1LlTZNg_89gmfCLwO9zLwBxzVWKp7usDu/view?usp=sharing)
 
 ---
 
@@ -63,8 +55,8 @@
 ### 🔧 Backend Development  
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)  
 ![DRF](https://img.shields.io/badge/Django%20REST-%23092E20.svg?style=flat&logo=django&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)  
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)  
 
 ### 📱 Mobile Development  
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)  
@@ -75,15 +67,17 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)  
+![Cursor](https://img.shields.io/badge/Cursor_AI-0F172A?style=flat&logo=OpenAI&logoColor=white)
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kt-pixels&show_icons=true&locale=en" alt="kt-pixels stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kt-pixels&" alt="kt-pixels streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kt-pixels&show_icons=true&locale=en&layout=compact" alt="kt-pixels top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kt-pixels&show_icons=true&theme=github_dark" alt="kt-pixels GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kt-pixels&theme=github-dark&hide_border=false" alt="kt-pixels GitHub Streak" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-pixels&layout=compact&theme=github_dark" alt="kt-pixels Top Languages" />
 </p>
+
