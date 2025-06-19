@@ -75,9 +75,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kt-pixels&show_icons=true&theme=github_dark" alt="kt-pixels GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-pixels&layout=compact&theme=github_dark" alt="kt-pixels Top Languages" />
   <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kt-pixels&theme=github-dark&hide_border=false" alt="kt-pixels GitHub Streak" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kt-pixels&layout=compact&theme=github_dark" alt="kt-pixels Top Languages" />
 </p>
 
